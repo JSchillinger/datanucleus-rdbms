@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>datanucleus-rdbms</artifactId>
-	<version>5.2.8-prive-patched</version>
+	<version>5.2.8-prive-20210726</version>
 
 	<name>DataNucleus RDBMS plugin</name>
 	<description>
